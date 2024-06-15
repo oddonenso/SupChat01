@@ -1,0 +1,49 @@
+﻿<Window x:Class="ClientChat.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClientChat"
+        mc:Ignorable="d"
+        Title="SUPERCHAT" Height="450" Width="800"
+        Background="Transparent"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        ResizeMode="CanResizeWithGrip"
+        WindowStartupLocation="CenterScreen">
+    <Border Background="LightGray" CornerRadius="20" BorderBrush="Gray" BorderThickness="1">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <!-- Заголовок приложения -->
+            <Border Background="Red" Grid.Row="0" Height="60" CornerRadius="20,20,0,0">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Text="SUPERCHAT" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White" FontSize="24"/>
+
+                    <!-- Кнопки управления окном -->
+                    <Button Grid.Column="1" Width="30" Height="30" Margin="5" Background="Transparent" Click="MinimizeWindow">
+                        <Image Source="C:\Users\qwerty\Desktop\программы и работы для шараги\ПРОИЗВОДСТВ.ПРАКТИКА\Chatik\ClientChat\Resources\collapsearrow_colapso_3252.ico" Stretch="Uniform"/>
+                    </Button>
+                    <Button Grid.Column="2" Width="30" Height="30" Margin="5" Background="Transparent" Click="MaximizeWindow">
+                        <Image Source="C:\Users\qwerty\Desktop\программы и работы для шараги\ПРОИЗВОДСТВ.ПРАКТИКА\Chatik\ClientChat\Resources\maximizethewindow_theapplication_maximizar_2873.ico" Stretch="Uniform"/>
+                    </Button>
+                    <Button Grid.Column="3" Width="30" Height="30" Margin="5" Background="Transparent" Click="CloseWindow">
+                        <Image Source="C:\Users\qwerty\Desktop\программы и работы для шараги\ПРОИЗВОДСТВ.ПРАКТИКА\Chatik\ClientChat\Resources\thewindowsclosedtheprogram_11535.ico" Stretch="Uniform"/>
+                    </Button>
+                </Grid>
+            </Border>
+
+            <!-- Представление основного контента -->
+            <Frame x:Name="FrmMain" Grid.Row="1" NavigationUIVisibility="Hidden" ContentRendered="FrmMain_ContentRendered"/>
+        </Grid>
+    </Border>
+</Window>

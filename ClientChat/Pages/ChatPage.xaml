@@ -1,0 +1,70 @@
+﻿<Page x:Class="ClientChat.Pages.ChatPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Страница чата">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Левая панель: список чатов -->
+        <StackPanel Grid.Column="0" Background="#F5F5F5">
+            <Border CornerRadius="5" Margin="10">
+                <TextBox Width="280" Height="30" VerticalAlignment="Top" Text="Поиск" FontFamily="Comic Sans MS"/>
+            </Border>
+            <ListBox Name="ChatListBox" Margin="10,50,10,10" SelectionChanged="ChatListBox_SelectionChanged">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Border CornerRadius="10" Margin="5">
+                            <StackPanel Orientation="Horizontal">
+                                <Image Width="50" Height="50" Margin="5" Source="{Binding Avatar}"/>
+                                <StackPanel>
+                                    <TextBlock Text="{Binding UserName}" FontWeight="Bold" FontFamily="Comic Sans MS"/>
+                                    <TextBlock Text="{Binding LastMessage}" FontFamily="Comic Sans MS"/>
+                                    <TextBlock Text="{Binding LastMessageTimestamp, StringFormat={}{0:dd/MM/yyyy HH:mm}}" FontFamily="Comic Sans MS" FontSize="10" Foreground="Gray"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </Border>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </StackPanel>
+
+        <!-- Правая панель: окно чата -->
+        <Grid Grid.Column="1" Background="White">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <!-- Верхняя панель с именем и статусом пользователя -->
+            <StackPanel x:Name="UserPanel" Orientation="Vertical" Grid.Row="0" Margin="10">
+                <TextBlock x:Name="SelectedUserName" FontWeight="Bold" FontSize="18" FontFamily="Comic Sans MS"/>
+                <TextBlock Text="Онлайн" Foreground="Blue" FontFamily="Comic Sans MS"/>
+            </StackPanel>
+
+            <!-- Сообщение о необходимости выбора чата -->
+            <TextBlock x:Name="SelectChatMessage" Text="Выберите чат для начала общения" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="16" FontFamily="Comic Sans MS" Grid.Row="1"/>
+
+            <!-- Окно сообщений -->
+            <ScrollViewer x:Name="MessageScrollViewer" Grid.Row="1" VerticalScrollBarVisibility="Auto" Margin="10">
+                <StackPanel x:Name="MessagesPanel"/>
+            </ScrollViewer>
+
+            <!-- Нижняя панель для ввода сообщения -->
+            <Grid x:Name="MessageInputPanel" Grid.Row="2" Background="#F5F5F5" Margin="10" Visibility="Collapsed">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <Border CornerRadius="5" Margin="5" HorizontalAlignment="Stretch" VerticalAlignment="Center" Grid.Column="0">
+                    <TextBox Name="MessageTextBox" Height="40" FontFamily="Comic Sans MS" TextWrapping="Wrap"/>
+                </Border>
+                <Button x:Name="SendMessageButton" Content="Отправить" Width="100" Height="40" Margin="5" FontFamily="Comic Sans MS" Click="SendMessageButton_Click" Grid.Column="1"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</Page>

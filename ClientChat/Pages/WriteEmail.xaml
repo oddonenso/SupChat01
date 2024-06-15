@@ -1,0 +1,18 @@
+﻿<Page x:Class="ClientChat.Pages.WriteEmail"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      mc:Ignorable="d"
+      Title="WriteEmail">
+    <Grid>
+        <TextBox x:Name="EmailTextBox" Width="200" Height="30" VerticalAlignment="Top" Margin="10" ToolTip="Введите ваш email"/>
+        <Button Content="Отправить письмо" Click="SendEmailButton_Click" Width="200" Height="30" VerticalAlignment="Top" Margin="10,50,0,0" Style="{StaticResource RedButtonStyle}"/>
+        <TextBlock x:Name="StatusMessageTextBlock" Text="{Binding StatusMessage}" Width="400" Height="60" VerticalAlignment="Top" Margin="10,100,0,0" TextWrapping="Wrap"/>
+        <TextBox x:Name="CodeTextBox" Width="200" Height="30" VerticalAlignment="Top" Margin="10,170,0,0" Visibility="Collapsed"/>
+        <Button x:Name="VerifyCodeButton" Content="Проверить код" Click="VerifyCodeButton_Click" Width="200" Height="30" VerticalAlignment="Top" Margin="10,210,0,0" Visibility="Collapsed" Style="{StaticResource RedButtonStyle}"/>
+        <TextBlock VerticalAlignment="Top" Margin="10,250,0,0">
+            <Hyperlink Click="BackToMainHyperlink_Click">Вернуться на главную</Hyperlink>
+        </TextBlock>
+    </Grid>
+</Page>

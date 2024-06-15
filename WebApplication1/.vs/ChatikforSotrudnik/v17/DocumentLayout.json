@@ -1,0 +1,897 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{736BECD3-34D6-448B-9846-C5CE100B26EF}|..\\ClientChat\\ClientChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\clientchat\\pages\\chatpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736BECD3-34D6-448B-9846-C5CE100B26EF}|..\\ClientChat\\ClientChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\clientchat\\pages\\chatpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736BECD3-34D6-448B-9846-C5CE100B26EF}|..\\ClientChat\\ClientChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\clientchat\\model\\messagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\webapplication1\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|solutionrelative:controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736BECD3-34D6-448B-9846-C5CE100B26EF}|..\\ClientChat\\ClientChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\clientchat\\pages\\autho.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\webapplication1\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736BECD3-34D6-448B-9846-C5CE100B26EF}|..\\ClientChat\\ClientChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\clientchat\\viewmodel\\chatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736BECD3-34D6-448B-9846-C5CE100B26EF}|..\\ClientChat\\ClientChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\clientchat\\pages\\autho.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736BECD3-34D6-448B-9846-C5CE100B26EF}|..\\ClientChat\\ClientChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\clientchat\\viewmodel\\authoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736BECD3-34D6-448B-9846-C5CE100B26EF}|..\\ClientChat\\ClientChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\clientchat\\pages\\writeemail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736BECD3-34D6-448B-9846-C5CE100B26EF}|..\\ClientChat\\ClientChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\clientchat\\pages\\writeemail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\webapplication1\\models\\messagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|solutionrelative:models\\messagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736BECD3-34D6-448B-9846-C5CE100B26EF}|..\\ClientChat\\ClientChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\clientchat\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736BECD3-34D6-448B-9846-C5CE100B26EF}|..\\ClientChat\\ClientChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\clientchat\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FA3691-8695-4B5B-B5DC-1930E910863E}|..\\Data\\Data.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\data\\tables\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FA3691-8695-4B5B-B5DC-1930E910863E}|..\\Data\\Data.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\data\\tables\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\webapplication1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\webapplication1\\models\\userloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|solutionrelative:models\\userloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FA3691-8695-4B5B-B5DC-1930E910863E}|..\\Data\\Data.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\data\\tables\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FA3691-8695-4B5B-B5DC-1930E910863E}|..\\Data\\Data.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\data\\tables\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Migrations\\20240610064225_initiall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\webapplication1\\controllers\\passwordresetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|solutionrelative:controllers\\passwordresetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Migrations\\20240610063817_initiall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FA3691-8695-4B5B-B5DC-1930E910863E}|..\\Data\\Data.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\data\\tables\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Migrations\\20240610064041_initiall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Migrations\\20240610063526_initiall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\webapplication1\\models\\messagemodell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|solutionrelative:models\\messagemodell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736BECD3-34D6-448B-9846-C5CE100B26EF}|..\\ClientChat\\ClientChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\clientchat\\converters\\booltobackgroundconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736BECD3-34D6-448B-9846-C5CE100B26EF}|..\\ClientChat\\ClientChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\clientchat\\converters\\booltohorizontalalignmentconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736BECD3-34D6-448B-9846-C5CE100B26EF}|..\\ClientChat\\ClientChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\clientchat\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736BECD3-34D6-448B-9846-C5CE100B26EF}|..\\ClientChat\\ClientChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\clientchat\\pages\\resetpasswordpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736BECD3-34D6-448B-9846-C5CE100B26EF}|..\\ClientChat\\ClientChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\clientchat\\pages\\resetpasswordpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736BECD3-34D6-448B-9846-C5CE100B26EF}|..\\ClientChat\\ClientChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\clientchat\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736BECD3-34D6-448B-9846-C5CE100B26EF}|..\\ClientChat\\ClientChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\clientchat\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736BECD3-34D6-448B-9846-C5CE100B26EF}|..\\ClientChat\\ClientChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\clientchat\\clientchat.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\webapplication1\\models\\passwordresetrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|solutionrelative:models\\passwordresetrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\webapplication1\\models\\passwordresetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|solutionrelative:models\\passwordresetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736BECD3-34D6-448B-9846-C5CE100B26EF}|..\\ClientChat\\ClientChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\clientchat\\viewmodel\\writeemailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\obj\\Debug\\net8.0-windows\\Pages\\WriteEmail.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736BECD3-34D6-448B-9846-C5CE100B26EF}|..\\ClientChat\\ClientChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\clientchat\\model\\userloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Temp\\.vsdbgsrc\\c2a1159178750d27c6b6f6d5784146b67170e9797c9c034d74a402616aa59bd5\\Page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Temp\\.vsdbgsrc\\2555e659cb52a1d328b9a33b879795c6f022ebfd9b5e54615bbcf4c64902a9a6\\DefaultBinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\webapplication1\\serverchat.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|solutionrelative:serverchat.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\webapplication1\\serverchat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|solutionrelative:serverchat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\qwerty\\AppData\\Local\\SourceServer\\1ace537a70871b5fc11ee81f6f4ddf1f90407cdb1c30fda59f883b9e0d67efce\\src\\libraries\\System.Net.Http\\src\\System\\Net\\Http\\SocketsHttpHandler\\HttpConnectionPool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|solutionrelative:webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\qwerty\\AppData\\Local\\SourceServer\\7fd9d1b85c73e1895066e96951a0c269db1e2f12197ea3b2ee5e7680cf629948\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\ValueTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06687AF-6834-466D-AE52-263D48236D55}|ServerChat.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Migrations\\20240603075208_Initiall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Migrations\\20240603070626_Initiall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FA3691-8695-4B5B-B5DC-1930E910863E}|..\\Data\\Data.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FA3691-8695-4B5B-B5DC-1930E910863E}|..\\Data\\Data.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\chatik\\data\\migrations\\20240610064414_initiall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\Pages\\ChatPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\ClientChat\\Pages\\ChatPage.xaml.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\Pages\\ChatPage.xaml.cs",
+              "RelativeToolTip": "..\\ClientChat\\Pages\\ChatPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:31:30.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatPage.xaml",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\Pages\\ChatPage.xaml",
+              "RelativeDocumentMoniker": "..\\ClientChat\\Pages\\ChatPage.xaml",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\Pages\\ChatPage.xaml",
+              "RelativeToolTip": "..\\ClientChat\\Pages\\ChatPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T05:23:28.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageModel.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\Model\\MessageModel.cs",
+              "RelativeDocumentMoniker": "..\\ClientChat\\Model\\MessageModel.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\Model\\MessageModel.cs",
+              "RelativeToolTip": "..\\ClientChat\\Model\\MessageModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:51:26.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "Controllers\\ChatController.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAAAIEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:50:13.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:57:32.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\ViewModel\\ChatViewModel.cs",
+              "RelativeDocumentMoniker": "..\\ClientChat\\ViewModel\\ChatViewModel.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\ViewModel\\ChatViewModel.cs",
+              "RelativeToolTip": "..\\ClientChat\\ViewModel\\ChatViewModel.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAswFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:55:30.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Autho.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\Pages\\Autho.xaml.cs",
+              "RelativeDocumentMoniker": "..\\ClientChat\\Pages\\Autho.xaml.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\Pages\\Autho.xaml.cs",
+              "RelativeToolTip": "..\\ClientChat\\Pages\\Autho.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:39:23.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Autho.xaml",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\Pages\\Autho.xaml",
+              "RelativeDocumentMoniker": "..\\ClientChat\\Pages\\Autho.xaml",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\Pages\\Autho.xaml",
+              "RelativeToolTip": "..\\ClientChat\\Pages\\Autho.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-05T03:37:45.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WriteEmail.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\Pages\\WriteEmail.xaml.cs",
+              "RelativeDocumentMoniker": "..\\ClientChat\\Pages\\WriteEmail.xaml.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\Pages\\WriteEmail.xaml.cs",
+              "RelativeToolTip": "..\\ClientChat\\Pages\\WriteEmail.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:44:50.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WriteEmail.xaml",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\Pages\\WriteEmail.xaml",
+              "RelativeDocumentMoniker": "..\\ClientChat\\Pages\\WriteEmail.xaml",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\Pages\\WriteEmail.xaml",
+              "RelativeToolTip": "..\\ClientChat\\Pages\\WriteEmail.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T06:22:05.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\ViewModel\\AuthoViewModel.cs",
+              "RelativeDocumentMoniker": "..\\ClientChat\\ViewModel\\AuthoViewModel.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\ViewModel\\AuthoViewModel.cs",
+              "RelativeToolTip": "..\\ClientChat\\ViewModel\\AuthoViewModel.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAYwGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:49:05.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MessageModel.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\Models\\MessageModel.cs",
+              "RelativeDocumentMoniker": "Models\\MessageModel.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\Models\\MessageModel.cs",
+              "RelativeToolTip": "Models\\MessageModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:26:31.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\ClientChat\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\MainWindow.xaml",
+              "RelativeToolTip": "..\\ClientChat\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-05T03:33:13.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:35:25.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\App.xaml",
+              "RelativeDocumentMoniker": "..\\ClientChat\\App.xaml",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\App.xaml",
+              "RelativeToolTip": "..\\ClientChat\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-05T03:36:17.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Tables\\Message.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Tables\\Message.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Tables\\Message.cs",
+              "RelativeToolTip": "..\\Data\\Tables\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:05:12.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Tables\\User.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Tables\\User.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Tables\\User.cs",
+              "RelativeToolTip": "..\\Data\\Tables\\User.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAIwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:05:20.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAkwDQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:21:02.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserLoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\Models\\UserLoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserLoginModel.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\Models\\UserLoginModel.cs",
+              "RelativeToolTip": "Models\\UserLoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T04:51:13.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Tables\\Connection.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Tables\\Connection.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Tables\\Connection.cs",
+              "RelativeToolTip": "..\\Data\\Tables\\Connection.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:04:34.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Tables\\Role.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Tables\\Role.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Tables\\Role.cs",
+              "RelativeToolTip": "..\\Data\\Tables\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:05:18.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240610064225_initiall.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Migrations\\20240610064225_initiall.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Migrations\\20240610064225_initiall.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Migrations\\20240610064225_initiall.cs",
+              "RelativeToolTip": "..\\Data\\Migrations\\20240610064225_initiall.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:42:25.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20240610064414_initiall.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Migrations\\20240610064414_initiall.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Migrations\\20240610064414_initiall.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Migrations\\20240610064414_initiall.cs",
+              "RelativeToolTip": "..\\Data\\Migrations\\20240610064414_initiall.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:44:14.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PasswordResetController.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\Controllers\\PasswordResetController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PasswordResetController.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\Controllers\\PasswordResetController.cs",
+              "RelativeToolTip": "Controllers\\PasswordResetController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAApwCwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:48:39.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240610063817_initiall.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Migrations\\20240610063817_initiall.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Migrations\\20240610063817_initiall.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Migrations\\20240610063817_initiall.cs",
+              "RelativeToolTip": "..\\Data\\Migrations\\20240610063817_initiall.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:38:17.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Tables\\Gender.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Tables\\Gender.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Tables\\Gender.cs",
+              "RelativeToolTip": "..\\Data\\Tables\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:39:35.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240610064041_initiall.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Migrations\\20240610064041_initiall.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Migrations\\20240610064041_initiall.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Migrations\\20240610064041_initiall.cs",
+              "RelativeToolTip": "..\\Data\\Migrations\\20240610064041_initiall.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:40:41.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240610063526_initiall.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Migrations\\20240610063526_initiall.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Migrations\\20240610063526_initiall.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Migrations\\20240610063526_initiall.cs",
+              "RelativeToolTip": "..\\Data\\Migrations\\20240610063526_initiall.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:35:26.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MessageModell.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\Models\\MessageModell.cs",
+              "RelativeDocumentMoniker": "Models\\MessageModell.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\Models\\MessageModell.cs",
+              "RelativeToolTip": "Models\\MessageModell.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T05:52:59.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BoolToHorizontalAlignmentConverter.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\Converters\\BoolToHorizontalAlignmentConverter.cs",
+              "RelativeDocumentMoniker": "..\\ClientChat\\Converters\\BoolToHorizontalAlignmentConverter.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\Converters\\BoolToHorizontalAlignmentConverter.cs",
+              "RelativeToolTip": "..\\ClientChat\\Converters\\BoolToHorizontalAlignmentConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:36:17.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BoolToBackgroundConverter.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\Converters\\BoolToBackgroundConverter.cs",
+              "RelativeDocumentMoniker": "..\\ClientChat\\Converters\\BoolToBackgroundConverter.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\Converters\\BoolToBackgroundConverter.cs",
+              "RelativeToolTip": "..\\ClientChat\\Converters\\BoolToBackgroundConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:36:54.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs",
+              "ToolTip": "C:\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:28:08.58Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\ViewModel\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "..\\ClientChat\\ViewModel\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\ViewModel\\RelayCommand.cs",
+              "RelativeToolTip": "..\\ClientChat\\ViewModel\\RelayCommand.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:50:16.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ResetPasswordPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\Pages\\ResetPasswordPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\ClientChat\\Pages\\ResetPasswordPage.xaml.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\Pages\\ResetPasswordPage.xaml.cs",
+              "RelativeToolTip": "..\\ClientChat\\Pages\\ResetPasswordPage.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:00:26.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\ClientChat\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\ClientChat\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:33:12.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ResetPasswordPage.xaml",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\Pages\\ResetPasswordPage.xaml",
+              "RelativeDocumentMoniker": "..\\ClientChat\\Pages\\ResetPasswordPage.xaml",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\Pages\\ResetPasswordPage.xaml",
+              "RelativeToolTip": "..\\ClientChat\\Pages\\ResetPasswordPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T05:00:01.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "..\\ClientChat\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\Properties\\Resources.resx",
+              "RelativeToolTip": "..\\ClientChat\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-06T06:28:26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ClientChat",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\ClientChat.csproj",
+              "RelativeDocumentMoniker": "..\\ClientChat\\ClientChat.csproj",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\ClientChat.csproj",
+              "RelativeToolTip": "..\\ClientChat\\ClientChat.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T06:27:35.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PasswordResetRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\Models\\PasswordResetRequestModel.cs",
+              "RelativeDocumentMoniker": "Models\\PasswordResetRequestModel.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\Models\\PasswordResetRequestModel.cs",
+              "RelativeToolTip": "Models\\PasswordResetRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:52:20.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PasswordResetModel.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\Models\\PasswordResetModel.cs",
+              "RelativeDocumentMoniker": "Models\\PasswordResetModel.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\Models\\PasswordResetModel.cs",
+              "RelativeToolTip": "Models\\PasswordResetModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:52:41.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "WriteEmailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\ViewModel\\WriteEmailViewModel.cs",
+              "RelativeDocumentMoniker": "..\\ClientChat\\ViewModel\\WriteEmailViewModel.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\ViewModel\\WriteEmailViewModel.cs",
+              "RelativeToolTip": "..\\ClientChat\\ViewModel\\WriteEmailViewModel.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAA0wFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:04:56.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T06:39:31.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:48:38.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "WriteEmail.g.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\obj\\Debug\\net8.0-windows\\Pages\\WriteEmail.g.cs",
+              "RelativeDocumentMoniker": "..\\ClientChat\\obj\\Debug\\net8.0-windows\\Pages\\WriteEmail.g.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\obj\\Debug\\net8.0-windows\\Pages\\WriteEmail.g.cs",
+              "RelativeToolTip": "..\\ClientChat\\obj\\Debug\\net8.0-windows\\Pages\\WriteEmail.g.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAQwDYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:24:26.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UserLoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\Model\\UserLoginModel.cs",
+              "RelativeDocumentMoniker": "..\\ClientChat\\Model\\UserLoginModel.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\ClientChat\\Model\\UserLoginModel.cs",
+              "RelativeToolTip": "..\\ClientChat\\Model\\UserLoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:49:46.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Page.cs",
+              "DocumentMoniker": "C:\\Temp\\.vsdbgsrc\\c2a1159178750d27c6b6f6d5784146b67170e9797c9c034d74a402616aa59bd5\\Page.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Temp\\.vsdbgsrc\\c2a1159178750d27c6b6f6d5784146b67170e9797c9c034d74a402616aa59bd5\\Page.cs",
+              "ToolTip": "C:\\Temp\\.vsdbgsrc\\c2a1159178750d27c6b6f6d5784146b67170e9797c9c034d74a402616aa59bd5\\Page.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Temp\\.vsdbgsrc\\c2a1159178750d27c6b6f6d5784146b67170e9797c9c034d74a402616aa59bd5\\Page.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:25:50.203Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DefaultBinder.cs",
+              "DocumentMoniker": "C:\\Temp\\.vsdbgsrc\\2555e659cb52a1d328b9a33b879795c6f022ebfd9b5e54615bbcf4c64902a9a6\\DefaultBinder.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Temp\\.vsdbgsrc\\2555e659cb52a1d328b9a33b879795c6f022ebfd9b5e54615bbcf4c64902a9a6\\DefaultBinder.cs",
+              "ToolTip": "C:\\Temp\\.vsdbgsrc\\2555e659cb52a1d328b9a33b879795c6f022ebfd9b5e54615bbcf4c64902a9a6\\DefaultBinder.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Temp\\.vsdbgsrc\\2555e659cb52a1d328b9a33b879795c6f022ebfd9b5e54615bbcf4c64902a9a6\\DefaultBinder.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:24:44.84Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ServerChat",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\ServerChat.csproj",
+              "RelativeDocumentMoniker": "ServerChat.csproj",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\ServerChat.csproj",
+              "RelativeToolTip": "ServerChat.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-04T06:09:12.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ServerChat.csproj",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\ServerChat.csproj",
+              "RelativeDocumentMoniker": "ServerChat.csproj",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\ServerChat.csproj",
+              "RelativeToolTip": "ServerChat.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-04T04:43:01.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "HttpConnectionPool.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\AppData\\Local\\SourceServer\\1ace537a70871b5fc11ee81f6f4ddf1f90407cdb1c30fda59f883b9e0d67efce\\src\\libraries\\System.Net.Http\\src\\System\\Net\\Http\\SocketsHttpHandler\\HttpConnectionPool.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\1ace537a70871b5fc11ee81f6f4ddf1f90407cdb1c30fda59f883b9e0d67efce\\src\\libraries\\System.Net.Http\\src\\System\\Net\\Http\\SocketsHttpHandler\\HttpConnectionPool.cs",
+              "ToolTip": "C:\\Users\\qwerty\\AppData\\Local\\SourceServer\\1ace537a70871b5fc11ee81f6f4ddf1f90407cdb1c30fda59f883b9e0d67efce\\src\\libraries\\System.Net.Http\\src\\System\\Net\\Http\\SocketsHttpHandler\\HttpConnectionPool.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\1ace537a70871b5fc11ee81f6f4ddf1f90407cdb1c30fda59f883b9e0d67efce\\src\\libraries\\System.Net.Http\\src\\System\\Net\\Http\\SocketsHttpHandler\\HttpConnectionPool.cs",
+              "ViewState": "AQIAAGUGAAAAAAAAAAAUwHIGAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T05:34:54.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "WebApplication1.http",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\WebApplication1.http",
+              "RelativeDocumentMoniker": "WebApplication1.http",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\WebApplication1.http",
+              "RelativeToolTip": "WebApplication1.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-04T05:38:39.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ValueTask.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\AppData\\Local\\SourceServer\\7fd9d1b85c73e1895066e96951a0c269db1e2f12197ea3b2ee5e7680cf629948\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\ValueTask.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\7fd9d1b85c73e1895066e96951a0c269db1e2f12197ea3b2ee5e7680cf629948\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\ValueTask.cs",
+              "ToolTip": "C:\\Users\\qwerty\\AppData\\Local\\SourceServer\\7fd9d1b85c73e1895066e96951a0c269db1e2f12197ea3b2ee5e7680cf629948\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\ValueTask.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\7fd9d1b85c73e1895066e96951a0c269db1e2f12197ea3b2ee5e7680cf629948\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\ValueTask.cs",
+              "ViewState": "AQIAABoDAAAAAAAAAAAUwCkDAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T05:09:02.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\WebApplication1\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:35:19.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T13:27:13.744Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20240603075208_Initiall.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Migrations\\20240603075208_Initiall.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Migrations\\20240603075208_Initiall.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Migrations\\20240603075208_Initiall.cs",
+              "RelativeToolTip": "..\\Data\\Migrations\\20240603075208_Initiall.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:52:08.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20240603070626_Initiall.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Migrations\\20240603070626_Initiall.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Migrations\\20240603070626_Initiall.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Migrations\\20240603070626_Initiall.cs",
+              "RelativeToolTip": "..\\Data\\Migrations\\20240603070626_Initiall.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:06:28.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u041F\u0420\u041E\u0418\u0417\u0412\u041E\u0414\u0421\u0422\u0412.\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410\\Chatik\\Data\\Class1.cs",
+              "RelativeToolTip": "..\\Data\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:33:51.356Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
